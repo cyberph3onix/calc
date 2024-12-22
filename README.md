@@ -7,3 +7,4 @@ https://youtu.be/fmMnRcrVtAE?si=2M4SQD7FVxHr2awM
 
 As he was using the .place() method, i found it to be very tedious so I went to the tkinter website, learnt about the grid and column system and then proceeded to make it, then I used the pyinstaller library to turn it into an executable file. 
 Anyways its not perfect but it gets the job done.
+P.S:  I'll upload the source code too
